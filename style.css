@@ -1,0 +1,29 @@
+body {
+    background-color: blanchedalmond;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#registrationForm {
+    background-color: rgb(215, 189, 153);
+    border-radius: 10px;
+    padding: 15px;
+}
+  
+label{
+    color: rgb(75, 75, 75);
+    padding: 5px;
+}
+
+input {
+    color: rgb(160, 132, 93);
+    margin: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+button{
+    color: rgb(75, 75, 75);
+    border-color: rgb(193, 174, 174);
+    border-radius: 5px;
+}
